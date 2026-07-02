@@ -4,7 +4,7 @@ import { EvervaultCard, Icon } from "../ui/evervault-card";
 export function ExpCard2() {
   return (
     <a 
-      href="https://drive.google.com/file/d/1LLMJymgGHn6kPxpMSWbF02hSVjySe8sq/view?usp=sharing" 
+      href="https://res.cloudinary.com/dtwjc8gng/image/upload/v1782025904/Screenshot_2026-06-21_124054_xgsod1.png" 
       target="_blank" 
       rel="noopener noreferrer"
       className="group relative flex flex-col items-start max-w-sm mx-auto p-6 min-h-[26rem] w-full rounded-2xl bg-zinc-950/40 backdrop-blur-md border border-white/10 hover:border-white/20 transition-all duration-500 hover:-translate-y-1 hover:shadow-2xl hover:shadow-white/5 cursor-pointer"
@@ -30,7 +30,7 @@ export function ExpCard2() {
         <EvervaultCard
           title="Central Coalfields Limited (CCL)– Software Engineering & Problem Solving Intern"
           description="Goverment Internship - Engineered a scalable MERN-stack college portal with responsive interfaces, API integrations, and optimized database operations."
-          image="https://res.cloudinary.com/dtwjc8gng/image/upload/v1782028422/Screenshot_2026-06-21_132111_patrhy.png" 
+          image="https://res.cloudinary.com/dtwjc8gng/image/upload/v1782025904/Screenshot_2026-06-21_124054_xgsod1.png" 
         />
       </div>
     </a>
