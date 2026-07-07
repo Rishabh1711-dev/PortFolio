@@ -35,7 +35,7 @@ export default function HeroSection() {
         {/* Action Buttons */}
         <div className="flex flex-wrap justify-center gap-4 mt-10">
           <a
-            href="https://drive.google.com/file/d/1suMur3eq3bQZgkIZDvCus3ieSRDOlWZn/view?usp=sharing"
+            href="https://drive.google.com/file/d/1q_4UyJiz2Q6Zw0U6OPNLdJ3EHXhnv7R9/view?usp=sharing"
             className="px-8 py-4 rounded-xl bg-purple-600 text-white font-semibold hover:-translate-y-1 hover:shadow-[0_0_25px_rgba(147,51,234,0.4)] transition-all duration-300"
           >
             View Resume
